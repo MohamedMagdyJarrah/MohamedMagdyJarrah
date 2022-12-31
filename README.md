@@ -16,7 +16,7 @@
 # About Me 🎓
 Undergraduate Communication and Electronics Engineer looking for opportunities that link my academic view with market technologies to develop my skills.
 
-I'm working on developing my skills in Embedded systems and Computer vision as I really love its applications like Robotics and other AI applications. So, I'm trying to get more experience in those fields by taking internships and Courses to put this experience to good use.
+I'm working on developing my skills in Embedded systems. So, I'm trying to get more experience in those fields by taking internships and Courses to put this experience to good use.
 
 I'm a Founder and Team Leader in Robotics which is a technical team that targets the Robotics field and participates in competitions, I won 3rd place in one of these competitions and worked as a Robotics instructor for different ages at Robokid Academy also I'm a Technical member at IEEE SSCS Alex SC in Embedded Systems Committee.
 
