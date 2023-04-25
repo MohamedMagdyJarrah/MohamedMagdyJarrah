@@ -20,11 +20,6 @@ I'm working on developing my skills in Embedded systems. So, I'm trying to get m
 
 I'm a Founder and Team Leader in Robotics which is a technical team that targets the Robotics field and participates in competitions, I won 3rd place in one of these competitions and worked as a Robotics instructor for different ages at Robokid Academy also I'm a Technical member at IEEE SSCS Alex SC in Embedded Systems Committee.
 
-<p align="center">
-<a href="https://github.com/MohamedMagdyJarrah">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohamedMagdyJarrah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 
 <p align="center">
 <a href="https://github.com/MohamedMagdyJarrah">
