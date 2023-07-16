@@ -13,7 +13,7 @@
 
 
 # About Me 🎓
-Senior Communication and Electronics Student looking for opportunities that link my academic view with market technologies to develop my skills.
+Fresh Communication and Electronics Engineer looking for opportunities that link my academic view with market technologies to develop my skills.
 
 I'm working on developing my skills in Embedded systems. So, I'm trying to get more experience in those fields by taking internships and Courses to put this experience to good use.
 
