@@ -6,10 +6,7 @@
     <a href="mailto:mohamedmagdygarrah@gmail.com"><img img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="GMAIL" title="GMAIL"/></a>
      <a href="https://www.facebook.com/mohamed.magdy.73307" alt="Facebook" title="Facebook" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=falt&logo=facebook&logoColor=white"/></a>
   </p>
- 
- <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Embedded+Software+Engineer;Robotics+Instructor&center=true&width=500&height=50"></a>
-</p>
+
 
 
 # About Me 🎓
